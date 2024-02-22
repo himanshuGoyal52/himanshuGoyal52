@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Himanshu Goyal
 - 👀 I’m interested in web development
 - 💞️ I’m looking to collaborate on a web 2.0 application project with node.js and spring boot as a backend.
-- I'm adept in DevOps tools like Docker, Kubernetes, and Terraform for streamlined deployment and infrastructure management.
+- 🔧 I'm adept in DevOps tools like Docker, Kubernetes, and Terraform for streamlined deployment and infrastructure management.
 - 📫 Just ping me on my mail goyalhimanshu424@gmail.com or leave a whatsApp message on my number +91-7412972658
 
 <!---
